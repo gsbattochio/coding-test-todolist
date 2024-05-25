@@ -56,7 +56,7 @@ Faça um fork deste repositório para executar o trabalho.
       3. Adicione seu currículo em PDF na raiz do repositório;
       4. Envie-nos o PULL-REQUEST para que seja avaliado.
 
-      OBS: os seus dados não irão ficar públicos em nosso respositório
+      OBS: seus dados não ficarão públicos em nosso repositório.
 
 ## [Opcional] Requisitos para Publicação da Aplicação
 - **CI/CD**: Configure os pipelines de CI (restore, build, testes e geração de artefato) e CD (publicação no app service do Azure).
